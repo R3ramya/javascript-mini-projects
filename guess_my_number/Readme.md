@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Secret-Number-Hunt.git
+   git clone https://github.com/R3ramya/javascript-mini-projects.git
    ```
 2. Navigate into the project directory:
    ```
@@ -40,6 +40,6 @@ To run this project locally, follow these steps:
 ## Usage
 
 To start the game, run the following command in your terminal:
-`    live-server
-   `
+`   live-server
+  `
 This will open the game in your default web browser.
